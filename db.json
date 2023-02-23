@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post A" },
-    { "id": 2, "title": "Post B" },
-    { "id": 3, "title": "Post C" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{"LawArea" : [
+{"Id" : "1" , "Name" : "Tenant Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "2" , "Name" : "Finance Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "3" , "Name" : "Company Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "4" , "Name" : "Stock Exchange Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "5" , "Name" : "Banking Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "6" , "Name" : "Partnership" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "7" , "Name" : "Constitutional " , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "8" , "Name" : "Partnership" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "9" , "Name" : "Contract Law" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "10" , "Name" : "Intellectual Property" , "Icon" : "https://via.placeholder.com/28"} , 
+{"Id" : "11" , "Name" : "Transport" , "Icon" : "https://via.placeholder.com/28"}
+],
+"LawyersAndLawFirm" : [
+{"Id" : "1" , "Name" : "Saiqa Haleema" , "Job_Title" : "Advocate" , "Type" : "Lawyer" , "Location" : "Blue Area, Islamabad" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"} , 
+{"Id" : "2" , "Name" : "Raja Aslam Kiyani" , "Job_Title" : "Advocate High Court" , "Type" : "Lawyer" , "Location" : "Bahria Enclave, Islamabad" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"} , 
+{"Id" : "3" , "Name" : "Muhammad Raheem" , "Job_Title" : "Advocate High Court" , "Type" : "Lawyer" , "Location" : "Ghouri Town, Rawalpindi" , "Image" : "https://via.placeholder.com/44" , "Status" : "Offline"} , 
+{"Id" : "4" , "Name" : "Saima Safdar" , "Job_Title" : "Advocate Sureme Court" , "Type" : "Lawyer" , "Location" : "Air Port Housing Society, Rawalpindi" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"} , 
+{"Id" : "5" , "Name" : "Yasir Hafeez" , "Job_Title" : "Advocate Rawalpindi High Coourt" , "Type" : "Lawyer" , "Location" : "Blue Area, Islamabad" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"} , 
+{"Id" : "6" , "Name" : "Royal Advocate LTD" , "Job_Title" : "" , "Type" : "Law Firm" , "Location" : "" , "Image" : "https://via.placeholder.com/44" , "Status" : "Offline"} , 
+{"Id" : "7" , "Name" : "Saima Safdar" , "Job_Title" : "Advocate Sureme Court" , "Type" : "Lawyer" , "Location" : "F8/3, Islamabad" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"} , 
+{"Id" : "8" , "Name" : "Tanveer & Rihab Lawyers" , "Job_Title" : "" , "Type" : "Law Firm" , "Location" : "Saddar, Rawalpindi" , "Image" : "https://via.placeholder.com/44" , "Status" : "Offline"} , 
+{"Id" : "9" , "Name" : "Rawalpindi Law Helpers pvt" , "Job_Title" : "" , "Type" : "Law Firm" , "Location" : "G11 Markaz, Islamabad" , "Image" : "https://via.placeholder.com/44" , "Status" : "Online"}
+],
+"City" : [
+{"Id" : "1" , "name" : "Karachi"} , 
+{"Id" : "2" , "name" : "Islamabad"} , 
+{"Id" : "3" , "name" : "Lahore"} , 
+{"Id" : "4" , "name" : "Muzaffrabad"} , 
+{"Id" : "5" , "name" : "Peshawar"} , 
+{"Id" : "6" , "name" : "Faislabad"} , 
+{"Id" : "7" , "name" : "Multan"} , 
+{"Id" : "8" , "name" : "Gilgit Baltistan"}
+],
+"Courts" : [
+{"Id" : "1" , "name" : "Supreme Court"} , 
+{"Id" : "2" , "name" : "Islamabad High Court"} , 
+{"Id" : "3" , "name" : "Lahore High Court"} , 
+{"Id" : "4" , "name" : "Karachi High Court"} , 
+{"Id" : "5" , "name" : "Peshawar High Court"}
+]
 }
